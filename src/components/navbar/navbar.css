@@ -1,0 +1,25 @@
+.search{
+    margin-right: 3.5vw;
+    color: black;
+    
+}
+.box{
+    float: right;
+    text-align: right;
+    margin-right: 0;
+    margin-bottom: 1vw;
+    
+
+}
+.search1{
+    margin-right: 0vw; 
+    float: right; 
+}
+.search2{
+    margin-left: 3.5vw;
+}
+
+.Nav{
+    position: sticky;
+    box-shadow: inherit;
+}

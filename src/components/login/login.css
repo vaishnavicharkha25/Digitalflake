@@ -1,0 +1,44 @@
+
+body { 
+    background: url('../../assets/image2.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+   form{
+    width: 50%;
+    align-items: left;
+    justify-content: left;
+    margin-top: 2vh;
+    margin-right: 4vw;
+    margin-left: 0vw;
+    margin-bottom: 10vh;
+    border-style: none;
+    border-radius: 1%;
+    background-color: white;
+}
+.box {
+    
+    margin-top: 2vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    width: 35vw;
+}
+.l1{
+    margin-top: 4vw;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    
+}
+.box1{
+    margin-right: 2vw;
+}
+.forget{
+    text-align: right;
+}
+a{
+    padding-right: 2vw;
+}

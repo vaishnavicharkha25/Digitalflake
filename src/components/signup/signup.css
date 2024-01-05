@@ -1,0 +1,35 @@
+form{
+    width: 50%;
+    
+    align-items: center;
+    justify-content: left;
+    margin-top: 2vh;
+    margin-right: 4vw;
+    margin-left: 0vw;
+    margin-bottom: 5vh;
+    border-style: none;
+    border-radius: 1%;
+    background-color: white;
+}
+.box {
+    
+    margin-top: 2vw;
+    margin-right: 2vw;
+    margin-left: 1vw;
+    width: 35vw;
+    text-align: left;
+}
+h3{
+    margin-top: 7vw;
+    text-align: center;
+}
+.box1{
+    margin-right: 2vw;
+}
+.forget{
+    text-align: right;
+}
+a{
+    padding-right: 2vw;
+    padding-bottom: 5vh;
+}
