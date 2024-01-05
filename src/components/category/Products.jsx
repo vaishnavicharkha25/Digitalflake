@@ -13,7 +13,7 @@ import { LuDelete } from 'react-icons/lu';
 
 
 
-export const Category = ()=>{
+ const Products = ()=>{
     return(
         <div className='bg-white m-0 p-0'>
         {/* <Navbar/> */}
@@ -22,9 +22,8 @@ export const Category = ()=>{
 <div className='row'>
   <div className='col-2' style={{backgroundColor:"#F4F4F4"}}>
 <Sidebar/></div>
-<div className='col text-center mb-0' style={{marginTop:"2vh", justifyContent:"center" }}>
-  <div class="shadow-lg p-3 bg-body rounded">
-
+<div className='col text-center mb-0' style={{marginTop:"10vh", justifyContent:"center" }}>
+<div class="shadow-lg p-3 bg-body rounded">
 <table class="table">
   <thead>
     <tr>
@@ -37,8 +36,8 @@ export const Category = ()=>{
     </tr>
   </thead>
   <tbody>
-    <tr style={{backgroundColor:"#FFF8B7"}}>
-      <th scope="row" >1</th>
+    <tr>
+      <th scope="row">1</th>
       <td>Milk</td>
       <td>@Lorem Ipsum is simply dummy text</td>
       <td>Active</td>
@@ -69,3 +68,4 @@ export const Category = ()=>{
     
     );
 }
+export default Products
